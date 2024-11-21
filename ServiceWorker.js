@@ -1,9 +1,9 @@
 const cacheName = "Lime Entertainment-LimeClicker-3.0";
 const contentToCache = [
     "Build/Html.loader.js",
-    "Build/Html.framework.js.gz",
-    "Build/Html.data.gz",
-    "Build/Html.wasm.gz",
+    "Build/Html.framework.js",
+    "Build/Html.data",
+    "Build/Html.wasm",
     "TemplateData/style.css"
 
 ];
