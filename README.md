@@ -1,1 +1,1 @@
-Lime Clicker is the first Unity game project
+Lime Clicker is my first Unity game project
