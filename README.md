@@ -1,4 +1,4 @@
-Lime Clicker was my first Unity game project Features 
+Lime Clicker was my first Unity game project
 
 Description:
 Lime Clicker is an incremental clicker game where your goal is to collect as many limes as possible, aiming for the ultimate milestone: "Infinity" Limes. 
@@ -8,6 +8,6 @@ How many limes can you collect?
 
 Features:
 
-⋅Upgrades
-⋅Animation
-⋅Settings
+⋅Upgrades  
+⋅Animation  
+⋅Settings  
