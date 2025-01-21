@@ -9,5 +9,5 @@ How many limes can you collect?
 Features:
 
 •Upgrades  
-•Settings
+•Settings  
 •Secrets🤫
