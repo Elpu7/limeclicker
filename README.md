@@ -8,6 +8,6 @@ How many limes can you collect?
 
 Features:
 
-⋅Upgrades  
-⋅Animation  
-⋅Settings  
+•Upgrades  
+•Settings
+•Secrets🤫
