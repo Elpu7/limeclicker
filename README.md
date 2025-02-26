@@ -8,7 +8,7 @@ _______________________________________
 
 **Features:**
 
-•Generate more with auto-click and upgrades  
+•Generate more upgrades  
 •Settings  
 •Secrets🤫
 _______________________________________
