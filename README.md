@@ -20,5 +20,5 @@ _______________________________________
 
 **Credits:**
 
-•Music made by <a href="suno.com">Suno</a>  
+•Music made by <a href="https://suno.com">Suno</a>  
 •Coding, visual job and everything else made by Elpu7
