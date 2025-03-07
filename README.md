@@ -16,3 +16,9 @@ _______________________________________
 **Controls:**
 
 •Use the left mouse button to interact with the in-game UI.
+_______________________________________
+
+**Credits:**
+
+•Music made by <a href="https://suno.com">Suno</a>  
+•Coding, visual job and everything else made by Elpu7
