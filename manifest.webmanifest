@@ -1,0 +1,15 @@
+{
+    "name": "Lime Clicker",
+    "short_name": "Lime Clicker",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000",
+    "description": "Lime Clicker",
+    "icons": [{
+      "src": "TemplateData/icons/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
