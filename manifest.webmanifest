@@ -7,7 +7,7 @@
     "theme_color": "#000",
     "description": "Lime Clicker",
     "icons": [{
-      "src": "TemplateData/icons/favicon.png",
+      "src": "TemplateData/favicon.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
