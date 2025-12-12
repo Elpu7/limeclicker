@@ -7,7 +7,7 @@
     "theme_color": "#000",
     "description": "Lime Clicker",
     "icons": [{
-      "src": "TemplateData/icons/unity-logo-dark.png",
+      "src": "TemplateData/icons/favicon.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
