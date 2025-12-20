@@ -9,6 +9,8 @@ _______________________________________
 **Features:**
 
 •Upgrades and autoclickers  
+•Prestige  
+•Weathers  
 •Settings  
 •Secrets🤫 
 _______________________________________
